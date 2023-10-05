@@ -8,7 +8,7 @@ Se considera la edad escolar entre 6 y 18 años. Si la madre de familia fuera vi
 ##
 En el siguiente algoritmo se le da la bienvenida al usuario y le va a pedir que ingrese los datos en base a las preguntas establecidas.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/0ZBZpyc/zc.png" alt="zc" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0ZBZpyc/zc.png" alt="zc"border="0" /></a>
 
 - *Informacion del usuario*:
 
